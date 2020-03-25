@@ -1,0 +1,130 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 96.15383219954649 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "label" 
+        xmin = 0 
+        xmax = 96.15383219954649 
+        intervals: size = 29 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.3177669395977545 
+            text = "etc" 
+        intervals [2]:
+            xmin = 0.3177669395977545 
+            xmax = 0.9130003017912286 
+            text = "cough" 
+        intervals [3]:
+            xmin = 0.9130003017912286 
+            xmax = 1.6132748455482568 
+            text = "etc" 
+        intervals [4]:
+            xmin = 1.6132748455482568 
+            xmax = 2.278535662117434 
+            text = "cough" 
+        intervals [5]:
+            xmin = 2.278535662117434 
+            xmax = 5.604839744963319 
+            text = "etc" 
+        intervals [6]:
+            xmin = 5.604839744963319 
+            xmax = 6.760292742162416 
+            text = "cough" 
+        intervals [7]:
+            xmin = 6.760292742162416 
+            xmax = 9.648925235160156 
+            text = "etc" 
+        intervals [8]:
+            xmin = 9.648925235160156 
+            xmax = 10.594295869232145 
+            text = "cough" 
+        intervals [9]:
+            xmin = 10.594295869232145 
+            xmax = 13.763038179732698 
+            text = "etc" 
+        intervals [10]:
+            xmin = 13.763038179732698 
+            xmax = 14.585860768647207 
+            text = "cough" 
+        intervals [11]:
+            xmin = 14.585860768647207 
+            xmax = 15.513724539125269 
+            text = "etc" 
+        intervals [12]:
+            xmin = 15.513724539125269 
+            xmax = 16.12646476491267 
+            text = "cough" 
+        intervals [13]:
+            xmin = 16.12646476491267 
+            xmax = 19.762569823901064 
+            text = "etc" 
+        intervals [14]:
+            xmin = 19.762569823901064 
+            xmax = 21.004046468240773 
+            text = "cough" 
+        intervals [15]:
+            xmin = 21.004046468240773 
+            xmax = 24.586593356192513 
+            text = "etc" 
+        intervals [16]:
+            xmin = 24.586593356192513 
+            xmax = 25.61524543293113 
+            text = "cough" 
+        intervals [17]:
+            xmin = 25.61524543293113 
+            xmax = 34.48293574964335 
+            text = "etc" 
+        intervals [18]:
+            xmin = 34.48293574964335 
+            xmax = 35.653470871449365 
+            text = "cough" 
+        intervals [19]:
+            xmin = 35.653470871449365 
+            xmax = 37.817187308727156 
+            text = "etc" 
+        intervals [20]:
+            xmin = 37.817187308727156 
+            xmax = 38.313777966463036 
+            text = "cough" 
+        intervals [21]:
+            xmin = 38.313777966463036 
+            xmax = 40.045095293417525 
+            text = "etc" 
+        intervals [22]:
+            xmin = 40.045095293417525 
+            xmax = 41.01815409326598 
+            text = "cough" 
+        intervals [23]:
+            xmin = 41.01815409326598 
+            xmax = 42.82526329298453 
+            text = "etc" 
+        intervals [24]:
+            xmin = 42.82526329298453 
+            xmax = 43.61297755952851 
+            text = "cough" 
+        intervals [25]:
+            xmin = 43.61297755952851 
+            xmax = 64.29693988101471 
+            text = "etc" 
+        intervals [26]:
+            xmin = 64.29693988101471 
+            xmax = 68.21358604341422 
+            text = "cough" 
+        intervals [27]:
+            xmin = 68.21358604341422 
+            xmax = 72.21537668760503 
+            text = "etc" 
+        intervals [28]:
+            xmin = 72.21537668760503 
+            xmax = 76.47260077716972 
+            text = "cough" 
+        intervals [29]:
+            xmin = 76.47260077716972 
+            xmax = 96.15383219954649 
+            text = "etc" 

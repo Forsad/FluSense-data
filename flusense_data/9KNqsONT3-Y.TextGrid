@@ -1,0 +1,130 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 93.55319727891157 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "words" 
+        xmin = 0 
+        xmax = 93.55319727891157 
+        intervals: size = 29 
+        intervals [1]:
+            xmin = 0 
+            xmax = 8.473422553006254 
+            text = "cough" 
+        intervals [2]:
+            xmin = 8.473422553006254 
+            xmax = 9.039583488167157 
+            text = "gasp" 
+        intervals [3]:
+            xmin = 9.039583488167157 
+            xmax = 13.537417584167667 
+            text = "cough" 
+        intervals [4]:
+            xmin = 13.537417584167667 
+            xmax = 14.260845445762154 
+            text = "gasp" 
+        intervals [5]:
+            xmin = 14.260845445762154 
+            xmax = 18.79013292704938 
+            text = "cough" 
+        intervals [6]:
+            xmin = 18.79013292704938 
+            xmax = 19.48210740335715 
+            text = "gasp" 
+        intervals [7]:
+            xmin = 19.48210740335715 
+            xmax = 21.778204529287482 
+            text = "cough" 
+        intervals [8]:
+            xmin = 21.778204529287482 
+            xmax = 22.312912079161666 
+            text = "gasp" 
+        intervals [9]:
+            xmin = 22.312912079161666 
+            xmax = 24.70336936095215 
+            text = "cough" 
+        intervals [10]:
+            xmin = 24.70336936095215 
+            xmax = 25.426797222546636 
+            text = "gasp" 
+        intervals [11]:
+            xmin = 25.426797222546636 
+            xmax = 28.57213575121832 
+            text = "cough" 
+        intervals [12]:
+            xmin = 28.57213575121832 
+            xmax = 31.246740526824293 
+            text = "breathe" 
+        intervals [13]:
+            xmin = 31.246740526824293 
+            xmax = 33.16539702931402 
+            text = "cough" 
+        intervals [14]:
+            xmin = 33.16539702931402 
+            xmax = 33.605744423328055 
+            text = "gasp" 
+        intervals [15]:
+            xmin = 33.605744423328055 
+            xmax = 45.77820452928748 
+            text = "cough" 
+        intervals [16]:
+            xmin = 45.77820452928748 
+            xmax = 46.47017900559525 
+            text = "gasp" 
+        intervals [17]:
+            xmin = 46.47017900559525 
+            xmax = 55.81290146198519 
+            text = "cough" 
+        intervals [18]:
+            xmin = 55.81290146198519 
+            xmax = 56.63068947943983 
+            text = "gasp" 
+        intervals [19]:
+            xmin = 56.63068947943983 
+            xmax = 59.08405353180374 
+            text = "cough" 
+        intervals [20]:
+            xmin = 59.08405353180374 
+            xmax = 59.838934778684944 
+            text = "gasp" 
+        intervals [21]:
+            xmin = 59.838934778684944 
+            xmax = 68.83460297068598 
+            text = "cough" 
+        intervals [22]:
+            xmin = 68.83460297068598 
+            xmax = 69.80965791457419 
+            text = "gasp" 
+        intervals [23]:
+            xmin = 69.80965791457419 
+            xmax = 71.72831441706393 
+            text = "cough" 
+        intervals [24]:
+            xmin = 71.72831441706393 
+            xmax = 72.42028889337169 
+            text = "gasp" 
+        intervals [25]:
+            xmin = 72.42028889337169 
+            xmax = 74.37039878114814 
+            text = "cough" 
+        intervals [26]:
+            xmin = 74.37039878114814 
+            xmax = 75.12528002802934 
+            text = "gasp" 
+        intervals [27]:
+            xmin = 75.12528002802934 
+            xmax = 81.11664817977899 
+            text = "cough" 
+        intervals [28]:
+            xmin = 81.11664817977899 
+            xmax = 82.0602497383805 
+            text = "gasp" 
+        intervals [29]:
+            xmin = 82.0602497383805 
+            xmax = 93.55319727891157 
+            text = "cough" 

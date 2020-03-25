@@ -1,0 +1,82 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 26.33142857142857 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "words" 
+        xmin = 0 
+        xmax = 26.33142857142857 
+        intervals: size = 17 
+        intervals [1]:
+            xmin = 0 
+            xmax = 3.119572550666437 
+            text = "cough" 
+        intervals [2]:
+            xmin = 3.119572550666437 
+            xmax = 3.9572426190027814 
+            text = "breathe" 
+        intervals [3]:
+            xmin = 3.9572426190027814 
+            xmax = 6.293280274363291 
+            text = "cough" 
+        intervals [4]:
+            xmin = 6.293280274363291 
+            xmax = 6.953977793051112 
+            text = "breathe" 
+        intervals [5]:
+            xmin = 6.953977793051112 
+            xmax = 7.874235051223434 
+            text = "cough" 
+        intervals [6]:
+            xmin = 7.874235051223434 
+            xmax = 8.723703289536346 
+            text = "breathe" 
+        intervals [7]:
+            xmin = 8.723703289536346 
+            xmax = 10.127685516747965 
+            text = "cough" 
+        intervals [8]:
+            xmin = 10.127685516747965 
+            xmax = 14.434017558195368 
+            text = "etc" 
+        intervals [9]:
+            xmin = 14.434017558195368 
+            xmax = 15.307082136461418 
+            text = "cough" 
+        intervals [10]:
+            xmin = 15.307082136461418 
+            xmax = 15.979577825125807 
+            text = "breathe" 
+        intervals [11]:
+            xmin = 15.979577825125807 
+            xmax = 16.451504624188537 
+            text = "etc" 
+        intervals [12]:
+            xmin = 16.451504624188537 
+            xmax = 17.2065875026889 
+            text = "cough" 
+        intervals [13]:
+            xmin = 17.2065875026889 
+            xmax = 17.725706981657904 
+            text = "breathe" 
+        intervals [14]:
+            xmin = 17.725706981657904 
+            xmax = 19.460037968213435 
+            text = "cough" 
+        intervals [15]:
+            xmin = 19.460037968213435 
+            xmax = 20.498276926151437 
+            text = "breathe" 
+        intervals [16]:
+            xmin = 20.498276926151437 
+            xmax = 23.837159029520247 
+            text = "cough" 
+        intervals [17]:
+            xmin = 23.837159029520247 
+            xmax = 26.33142857142857 
+            text = "etc" 

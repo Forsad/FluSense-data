@@ -1,0 +1,114 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 245.80643990929704 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "label" 
+        xmin = 0 
+        xmax = 245.80643990929704 
+        intervals: size = 25 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.1899666879204675 
+            text = "etc" 
+        intervals [2]:
+            xmin = 0.1899666879204675 
+            xmax = 10.1518725032206 
+            text = "speech" 
+        intervals [3]:
+            xmin = 10.1518725032206 
+            xmax = 11.453561529753152 
+            text = "etc" 
+        intervals [4]:
+            xmin = 11.453561529753152 
+            xmax = 18.918349620684715 
+            text = "speech" 
+        intervals [5]:
+            xmin = 18.918349620684715 
+            xmax = 19.848127496779394 
+            text = "etc" 
+        intervals [6]:
+            xmin = 19.848127496779394 
+            xmax = 52.439024900335006 
+            text = "speech" 
+        intervals [7]:
+            xmin = 52.439024900335006 
+            xmax = 53.90010441991236 
+            text = "etc" 
+        intervals [8]:
+            xmin = 53.90010441991236 
+            xmax = 56.90195870558947 
+            text = "cough" 
+        intervals [9]:
+            xmin = 56.90195870558947 
+            xmax = 59.58503200517697 
+            text = "etc" 
+        intervals [10]:
+            xmin = 59.58503200517697 
+            xmax = 95.81683180795767 
+            text = "speech" 
+        intervals [11]:
+            xmin = 95.81683180795767 
+            xmax = 97.86234313536598 
+            text = "etc" 
+        intervals [12]:
+            xmin = 97.86234313536598 
+            xmax = 110.4639504780665 
+            text = "speech" 
+        intervals [13]:
+            xmin = 110.4639504780665 
+            xmax = 111.57968392938011 
+            text = "etc" 
+        intervals [14]:
+            xmin = 111.57968392938011 
+            xmax = 114.77725218243738 
+            text = "speech" 
+        intervals [15]:
+            xmin = 114.77725218243738 
+            xmax = 117.6197159750697 
+            text = "etc" 
+        intervals [16]:
+            xmin = 117.6197159750697 
+            xmax = 118.94797008377637 
+            text = "speech" 
+        intervals [17]:
+            xmin = 118.94797008377637 
+            xmax = 120.75439567161746 
+            text = "etc" 
+        intervals [18]:
+            xmin = 120.75439567161746 
+            xmax = 135.6671651634676 
+            text = "speech" 
+        intervals [19]:
+            xmin = 135.6671651634676 
+            xmax = 137.15480976521908 
+            text = "etc" 
+        intervals [20]:
+            xmin = 137.15480976521908 
+            xmax = 187.117784769289 
+            text = "speech" 
+        intervals [21]:
+            xmin = 187.117784769289 
+            xmax = 189.05703576800073 
+            text = "etc" 
+        intervals [22]:
+            xmin = 189.05703576800073 
+            xmax = 216.79431450222603 
+            text = " speech" 
+        intervals [23]:
+            xmin = 216.79431450222603 
+            xmax = 218.19027625324074 
+            text = "etc" 
+        intervals [24]:
+            xmin = 218.19027625324074 
+            xmax = 243.09279041483387 
+            text = "speech" 
+        intervals [25]:
+            xmin = 243.09279041483387 
+            xmax = 245.80643990929704 
+            text = "etc" 

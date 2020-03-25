@@ -1,0 +1,66 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 64.2960544217687 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "words" 
+        xmin = 0 
+        xmax = 64.2960544217687 
+        intervals: size = 13 
+        intervals [1]:
+            xmin = 0 
+            xmax = 10.046091817342097 
+            text = "sniffle" 
+        intervals [2]:
+            xmin = 10.046091817342097 
+            xmax = 10.832426449510017 
+            text = "throat-clearing" 
+        intervals [3]:
+            xmin = 10.832426449510017 
+            xmax = 17.78362459787444 
+            text = "cough" 
+        intervals [4]:
+            xmin = 17.78362459787444 
+            xmax = 32.536329323579686 
+            text = "etc" 
+        intervals [5]:
+            xmin = 32.536329323579686 
+            xmax = 38.166485289902 
+            text = "cough" 
+        intervals [6]:
+            xmin = 38.166485289902 
+            xmax = 41.091650121566666 
+            text = "speech" 
+        intervals [7]:
+            xmin = 41.091650121566666 
+            xmax = 44.1426284943782 
+            text = "sniffle" 
+        intervals [8]:
+            xmin = 44.1426284943782 
+            xmax = 45.77820452928748 
+            text = "cough" 
+        intervals [9]:
+            xmin = 45.77820452928748 
+            xmax = 48.32592873751154 
+            text = "sniffle" 
+        intervals [10]:
+            xmin = 48.32592873751154 
+            xmax = 49.9300513871341 
+            text = "cough" 
+        intervals [11]:
+            xmin = 49.9300513871341 
+            xmax = 51.76514516677597 
+            text = "sniffle" 
+        intervals [12]:
+            xmin = 51.76514516677597 
+            xmax = 61.98749538495895 
+            text = "etc" 
+        intervals [13]:
+            xmin = 61.98749538495895 
+            xmax = 64.2960544217687 
+            text = "speech" 

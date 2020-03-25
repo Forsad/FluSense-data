@@ -1,0 +1,70 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 171.89732426303854 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "words" 
+        xmin = 0 
+        xmax = 171.89732426303854 
+        intervals: size = 14 
+        intervals [1]:
+            xmin = 0 
+            xmax = 4.360716022920528 
+            text = "etc" 
+        intervals [2]:
+            xmin = 4.360716022920528 
+            xmax = 8.43361942791747 
+            text = "cough" 
+        intervals [3]:
+            xmin = 8.43361942791747 
+            xmax = 54.8474722272916 
+            text = "etc" 
+        intervals [4]:
+            xmin = 54.8474722272916 
+            xmax = 61.08452562636282 
+            text = "speech" 
+        intervals [5]:
+            xmin = 61.08452562636282 
+            xmax = 63.58472375616292 
+            text = "etc" 
+        intervals [6]:
+            xmin = 63.58472375616292 
+            xmax = 65.60101257051784 
+            text = "speech" 
+        intervals [7]:
+            xmin = 65.60101257051784 
+            xmax = 86.388392392979 
+            text = "etc" 
+        intervals [8]:
+            xmin = 86.388392392979 
+            xmax = 86.85885978299515 
+            text = "speech" 
+        intervals [9]:
+            xmin = 86.85885978299515 
+            xmax = 87.77291071216938 
+            text = "cough" 
+        intervals [10]:
+            xmin = 87.77291071216938 
+            xmax = 89.0095678516404 
+            text = "etc" 
+        intervals [11]:
+            xmin = 89.0095678516404 
+            xmax = 90.25966691654045 
+            text = "cough" 
+        intervals [12]:
+            xmin = 90.25966691654045 
+            xmax = 100.42792565006569 
+            text = "etc" 
+        intervals [13]:
+            xmin = 100.42792565006569 
+            xmax = 102.06784055240769 
+            text = "cough" 
+        intervals [14]:
+            xmin = 102.06784055240769 
+            xmax = 171.89732426303854 
+            text = "etc" 

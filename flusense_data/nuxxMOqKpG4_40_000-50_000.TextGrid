@@ -1,0 +1,74 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 10 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "word" 
+        xmin = 0 
+        xmax = 10 
+        intervals: size = 15 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.6225464942558344 
+            text = "sneeze" 
+        intervals [2]:
+            xmin = 0.6225464942558344 
+            xmax = 1.2722039050023184 
+            text = "sniffle" 
+        intervals [3]:
+            xmin = 1.2722039050023184 
+            xmax = 1.7981170470351864 
+            text = "gasp" 
+        intervals [4]:
+            xmin = 1.7981170470351864 
+            xmax = 2.3652782786392597 
+            text = "sniffle" 
+        intervals [5]:
+            xmin = 2.3652782786392597 
+            xmax = 3.272736249205777 
+            text = "gasp" 
+        intervals [6]:
+            xmin = 3.272736249205777 
+            xmax = 4.211130286950699 
+            text = "silence" 
+        intervals [7]:
+            xmin = 4.211130286950699 
+            xmax = 5.273268593409235 
+            text = "speech" 
+        intervals [8]:
+            xmin = 5.273268593409235 
+            xmax = 5.747621623478096 
+            text = "sniffle" 
+        intervals [9]:
+            xmin = 5.747621623478096 
+            xmax = 6.417903079010183 
+            text = "silence" 
+        intervals [10]:
+            xmin = 6.417903079010183 
+            xmax = 7.098496556935071 
+            text = "gasp" 
+        intervals [11]:
+            xmin = 7.098496556935071 
+            xmax = 7.593473631789535 
+            text = "gasp" 
+        intervals [12]:
+            xmin = 7.593473631789535 
+            xmax = 8.232819020143218 
+            text = "silence" 
+        intervals [13]:
+            xmin = 8.232819020143218 
+            xmax = 8.634987893462469 
+            text = "gasp" 
+        intervals [14]:
+            xmin = 8.634987893462469 
+            xmax = 9.707438222313808 
+            text = "silence" 
+        intervals [15]:
+            xmin = 9.707438222313808 
+            xmax = 10 
+            text = "gasp" 

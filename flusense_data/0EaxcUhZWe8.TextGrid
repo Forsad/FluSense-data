@@ -1,0 +1,130 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 204.96253968253967 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "words" 
+        xmin = 0 
+        xmax = 204.96253968253967 
+        intervals: size = 29 
+        intervals [1]:
+            xmin = 0 
+            xmax = 9.939115075969145 
+            text = "etc" 
+        intervals [2]:
+            xmin = 9.939115075969145 
+            xmax = 18.394086170830786 
+            text = "speech" 
+        intervals [3]:
+            xmin = 18.394086170830786 
+            xmax = 34.3289309134111 
+            text = "etc" 
+        intervals [4]:
+            xmin = 34.3289309134111 
+            xmax = 39.06048866443065 
+            text = "speech" 
+        intervals [5]:
+            xmin = 39.06048866443065 
+            xmax = 49.464538946502046 
+            text = "etc" 
+        intervals [6]:
+            xmin = 49.464538946502046 
+            xmax = 49.74681938051173 
+            text = "cough" 
+        intervals [7]:
+            xmin = 49.74681938051173 
+            xmax = 53.0462542198012 
+            text = "etc" 
+        intervals [8]:
+            xmin = 53.0462542198012 
+            xmax = 63.58472375616292 
+            text = "speech" 
+        intervals [9]:
+            xmin = 63.58472375616292 
+            xmax = 65.61445449594687 
+            text = "etc" 
+        intervals [10]:
+            xmin = 65.61445449594687 
+            xmax = 67.56353368315664 
+            text = "speech" 
+        intervals [11]:
+            xmin = 67.56353368315664 
+            xmax = 68.84051659891475 
+            text = "etc" 
+        intervals [12]:
+            xmin = 68.84051659891475 
+            xmax = 75.21198925227631 
+            text = "speech" 
+        intervals [13]:
+            xmin = 75.21198925227631 
+            xmax = 78.55174986785288 
+            text = "etc" 
+        intervals [14]:
+            xmin = 78.55174986785288 
+            xmax = 81.4283219096659 
+            text = "speech" 
+        intervals [15]:
+            xmin = 81.4283219096659 
+            xmax = 83.48493650030791 
+            text = "etc" 
+        intervals [16]:
+            xmin = 83.48493650030791 
+            xmax = 89.9908284079598 
+            text = "speech" 
+        intervals [17]:
+            xmin = 89.9908284079598 
+            xmax = 93.21689051092767 
+            text = "etc" 
+        intervals [18]:
+            xmin = 93.21689051092767 
+            xmax = 105.09227377394008 
+            text = "speech" 
+        intervals [19]:
+            xmin = 105.09227377394008 
+            xmax = 108.96354829750152 
+            text = "etc" 
+        intervals [20]:
+            xmin = 108.96354829750152 
+            xmax = 139.9130237443115 
+            text = "speech" 
+        intervals [21]:
+            xmin = 139.9130237443115 
+            xmax = 142.11749951467286 
+            text = "etc" 
+        intervals [22]:
+            xmin = 142.11749951467286 
+            xmax = 167.87839174587617 
+            text = "speech" 
+        intervals [23]:
+            xmin = 167.87839174587617 
+            xmax = 172.20669173402473 
+            text = "etc" 
+        intervals [24]:
+            xmin = 172.20669173402473 
+            xmax = 191.56922746100844 
+            text = "speech" 
+        intervals [25]:
+            xmin = 191.56922746100844 
+            xmax = 193.82709324338657 
+            text = "etc" 
+        intervals [26]:
+            xmin = 193.82709324338657 
+            xmax = 196.8246426140609 
+            text = "speech" 
+        intervals [27]:
+            xmin = 196.8246426140609 
+            xmax = 198.33013826211257 
+            text = "etc" 
+        intervals [28]:
+            xmin = 198.33013826211257 
+            xmax = 201.03196527334816 
+            text = "speech" 
+        intervals [29]:
+            xmin = 201.03196527334816 
+            xmax = 204.96253968253967 
+            text = "etc" 
