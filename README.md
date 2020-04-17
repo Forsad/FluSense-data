@@ -1,8 +1,11 @@
+
 # FluSense-data
 
 [AudioSet](https://research.google.com/audioset/) data (originally released by Google) labeled for the FluSense project (https://dl.acm.org/doi/10.1145/3381014).
 
-The TextGrid labels files are under flusense_data folder. To get the audio use the following link: [Google Drive](https://drive.google.com/drive/folders/1c-qkb_ljD6xXqU4AGm4jEf8-lygRjLtS?usp=sharing)
+This repository only contains annotations for the audio files. To download the original audio dataset, please use the following link: [Google Drive](https://drive.google.com/drive/folders/1c-qkb_ljD6xXqU4AGm4jEf8-lygRjLtS?usp=sharing)
+
+The TextGrid (output format of ["praat"](http://www.fon.hum.uva.nl/praat/) annotation tool) annotation files are under flusense_data folder. There is a python example that can be used for getting duration statistics for each label in the dataset using ["praatIO"](https://pypi.org/project/praatio/) package. However, many other packages can achieve the same goal.
 
 # Labels
 
@@ -15,7 +18,7 @@ The avialable labels are:
 5. speech
 6. etc (i.e everything else)
 
-There are also some other events that were labeled, but the amount is insignificant.
+There are also some other events that were labeled, but their total duration in the dataset is very small.
 
 # Citation
 If you find our work useful please cite our work at: 
