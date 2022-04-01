@@ -43,7 +43,7 @@ def main():
         t_name = tg_instance.tierNameList[0]
 
         entry_list = tg_instance.tierDict[t_name].entryList
-        # print(entryList)
+
         data_frame = pd.DataFrame(entry_list)
         filename_df = pd.DataFrame(
             dict(filename=[file.split(".")[0] + ".wav"] * len(entry_list))
